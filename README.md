@@ -2,7 +2,7 @@
 
 A UCLA ECE 3 team course project that implemented feedback control on a provided differential-drive robot. The robot followed a marked course, handled gradual turns, detected transverse bars, executed a U-turn, and stopped after returning to the starting point.
 
-![ECE 3 line-following robot](assets/ece3-robot.jpg)
+<!-- Project photo will be added at assets/ece3-robot.jpg. -->
 
 ## Key results
 
@@ -37,5 +37,4 @@ This was a collaborative project without a rigid division of software responsibi
 ## Notes
 
 The program depends on the UCLA ECE 3 course library (`ECE3.h`) and the corresponding course robot platform. The source file was reconstructed from a text copy retained after the course; identifier formatting lost during copy and paste was normalized without intentionally changing the control behavior.
-
 
